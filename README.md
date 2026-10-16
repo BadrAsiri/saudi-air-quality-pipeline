@@ -1,4 +1,4 @@
 # Saudi Air Quality Pipeline
-Data pipeline for weather and air quality in saudi cities
+Data pipeline for weather and air quality in Saudi cities
 
-Bulid by Badr Asiri
+Built by Badr Asiri
